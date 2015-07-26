@@ -3,4 +3,8 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="action_list">List</string>
+    <string name="CaloriesToday">Calories Today:</string>
+    <string name="TotalCaloriesToday"></string>
+    <string name="UpdateCalorieCount">Update</string>
 </resources>
